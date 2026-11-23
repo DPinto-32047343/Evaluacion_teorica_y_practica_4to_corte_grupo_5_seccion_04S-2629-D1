@@ -13,3 +13,4 @@ try {
     exit("Fallo crítico de infraestructura de red.");
 }
 ?>
+
